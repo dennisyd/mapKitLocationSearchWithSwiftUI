@@ -2,4 +2,4 @@
 
 Please find the complete article for this sample project at https://www.peteralt.com/blog/mapkit-location-search-with-swiftui
 
-Built with Xcode 11.5
+Built with Xcode 16.5
